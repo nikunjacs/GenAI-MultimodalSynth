@@ -21,7 +21,7 @@ GenAI-MultimodalSynth is a **Generative AI project** that synthesizes text, imag
 2. Receive multimodal output (text, image, audio)
 
 ## Status
-🚧 Currently building advanced **multimodal AI pipelines**.
+Currently building advanced **multimodal AI pipelines**.
 
 ## License
 MIT
