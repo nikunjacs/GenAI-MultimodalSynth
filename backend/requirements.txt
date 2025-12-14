@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+transformers
+diffusers
+Pillow
+numpy
+pydub
+librosa
