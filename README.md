@@ -16,8 +16,4 @@ GenAI-MultimodalSynth is a **cutting-edge Generative AI project** that synthesiz
 - AI Models: GPT-2 / GPT-4, Stable Diffusion, TTS
 - Deployment: Docker, AWS/GCP/Azure
 
-## Usage
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/GenAI-MultimodalSynth.git
-cd GenAI-MultimodalSynth
+
